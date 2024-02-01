@@ -1,4 +1,4 @@
-# CSI_DDU_recruitment
+
 # INVENTORY MANAGEMENT SYSTEM
 This console application is created using C++, some OOP concepts
 and data structures like set...
